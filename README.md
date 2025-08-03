@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0142-linked-list-cycle-ii) |
