@@ -1,24 +1,23 @@
-from collections import deque
 class MyQueue:
 
     def __init__(self):
-        self.queue : list = deque()
+        self.stack : list = []
 
     def push(self, x: int) -> None:
-        self.queue.append(x)
+        self.stack.append(x)
 
     def pop(self) -> int:
-        if len(self.queue) == 0:
+        if len(self.stack) == 0:
             return None
-        return self.queue.popleft()
+        return self.stack.pop(0)
 
     def peek(self) -> int:
-        if len(self.queue) == 0:
+        if len(self.stack) == 0:
             return None
-        return self.queue[0]
+        return self.stack[0]        
 
     def empty(self) -> bool:
-        return len(self.queue) == 0
+        return len(self.stack) == 0
 
 
 # Your MyQueue object will be instantiated and called as such:
