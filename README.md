@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3791-fruits-into-baskets-iii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
