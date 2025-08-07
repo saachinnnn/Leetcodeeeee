@@ -1,32 +1,15 @@
-from collections import defaultdict
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack : list = []
-        Hashmap : dict = defaultdict(int)
+        stack = []
+        matching = {')':'(','}':'{',']':'['}
+
         for ch in s:
-            if ch == '[' or ch == '{' or ch == '(':
-                Hashmap[ch] += 1
+            if ch in matching.values():
                 stack.append(ch)
+            elif ch in matching:
+                if not stack or stack[-1] != matching[ch]:
+                    return False
+                stack.pop()
             else:
-                if ch == ']':
-                    if '[' not in Hashmap or Hashmap['['] == 0:
-                        return False
-                    elif stack[-1] != '[':
-                        return False
-                    stack.pop()
-                    Hashmap['['] -= 1
-                elif ch == '}':
-                    if '{' not in Hashmap or Hashmap['{'] == 0:
-                        return False
-                    elif stack[-1] != '{':
-                        return False
-                    stack.pop()
-                    Hashmap['{'] -= 1
-                else:
-                    if '(' not in Hashmap or Hashmap['('] == 0:
-                        return False
-                    elif stack[-1] != '(':
-                        return False
-                    stack.pop()
-                    Hashmap['('] -= 1
-        return len(stack) == 0
+                return False
+        return not stack
