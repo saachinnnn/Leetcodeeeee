@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0002-add-two-numbers) |
+| [0826-soup-servings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0826-soup-servings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0826-soup-servings) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Matrix
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0232-implement-queue-using-stacks) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
