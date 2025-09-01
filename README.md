@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0222-count-complete-tree-nodes) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3791-fruits-into-baskets-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0231-power-of-two) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sliding Window
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -159,4 +162,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
