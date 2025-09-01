@@ -143,4 +143,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0826-soup-servings) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
