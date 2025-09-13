@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0940-fruit-into-baskets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0940-fruit-into-baskets) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0239-sliding-window-maximum) |
 | [1917-maximum-average-pass-ratio](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1917-maximum-average-pass-ratio) |
 ## Merge Sort
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0239-sliding-window-maximum) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1917-maximum-average-pass-ratio) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
