@@ -2,24 +2,24 @@ from typing import List
 from collections import deque
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
-        dq : list = deque()
+        # Using Monotonic stack we can maintain the maximum element.
+        MaxQueue : list = deque()
 
-        answer : list = []
+        result : list = []
 
         for i in range(len(nums)):
-            # Now we have to check if the current greatest champion is expired or not.
-            if dq and dq[0] < i - k + 1:
-                dq.popleft()
+            # To see if the element is out of the window or not.
+            if MaxQueue and MaxQueue[0] < i - k + 1:
+                MaxQueue.popleft()
             
-            # Now we hv to remove the smaller elements from the back.
-            while dq and nums[dq[-1]] < nums[i]:
-                dq.pop()
+            # Now to remove the smaller elements before the current champion element.
+            while MaxQueue and nums[MaxQueue[-1]] < nums[i]:
+                MaxQueue.pop()
             
-            # Now we append the index of the current element.
-            dq.append(i)
+            # Now Append the current element.
+            MaxQueue.append(i)
 
-            # Now we wait till the formation of the window and then we append the max element.
-
+            # Now finally Check if the window is formed.
             if i >= k - 1:
-                answer.append(nums[dq[0]])
-        return answer
+                result.append(nums[MaxQueue[0]])
+        return result
