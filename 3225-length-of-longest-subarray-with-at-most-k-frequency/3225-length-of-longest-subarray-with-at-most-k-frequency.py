@@ -1,28 +1,23 @@
+from collections import defaultdict 
 class Solution:
     def maxSubarrayLength(self, nums: List[int], k: int) -> int:
-        # Edge Cases.
-        if k == 0 or k < 0:
-            return None 
-        elif len(nums) == 0:
-            return None 
+        # Optimal way.
+        ## Edge cases...
+        if k <= 0:
+            return 0
         
-        Hashmap : dict = {}
-        Hashmap[nums[0]] = 1
-
-        maxlength = 1
+        freq = defaultdict(int)
         l = 0
-        for r in range(1,len(nums)):
-            if nums[r] not in Hashmap:
-                Hashmap[nums[r]] = 1
-                maxlength = max(maxlength,r - l + 1)
-            elif Hashmap[nums[r]] < k:
-                Hashmap[nums[r]] += 1
-                maxlength = max(maxlength,r - l + 1)
-            else:
-                while Hashmap[nums[r]] >= k:
-                    Hashmap[nums[l]] -= 1
-                    l += 1
-                Hashmap[nums[r]] += 1
-                maxlength = max(maxlength,r - l + 1)
+        maxlength = 0
+
+        for r in range(len(nums)):
+            freq[nums[r]] += 1
+
+            while freq[nums[r]] > k:
+                freq[nums[l]] -= 1
+                if freq[nums[l]] == 0:
+                    del freq[nums[l]]
+                l += 1
+            
+            maxlength = max(maxlength,r - l + 1)
         return maxlength
-        
