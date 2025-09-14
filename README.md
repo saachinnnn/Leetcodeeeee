@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0940-fruit-into-baskets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1293-three-consecutive-odds) |
 | [1917-maximum-average-pass-ratio](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1917-maximum-average-pass-ratio) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1610-xor-operation-in-an-array) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2752-sum-multiples) |
