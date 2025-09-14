@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0002-add-two-numbers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
 | [0826-soup-servings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0826-soup-servings) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -231,4 +232,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
