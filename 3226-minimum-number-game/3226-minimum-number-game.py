@@ -1,14 +1,16 @@
 class Solution:
     def numberGame(self, nums: List[int]) -> List[int]:
-        # Empty array named as 'arr'
+        # Empty array.
         arr : list = []
         if len(nums) == 0:
             return arr
+        
+        # Now.
+        nums.sort(reverse = True)
         while len(nums) is not 0:
-            index = nums.index(min(nums))
-            AliceElement : int = nums.pop(index)
-            arr.append(min(nums))
-            nums.remove(min(nums))
+            AliceElement : int = nums.pop()
+            BobElement : int = nums.pop()
+
+            arr.append(BobElement)
             arr.append(AliceElement)
         return arr
-           
