@@ -9,4 +9,4 @@ class Solution:
         for num in nums:
             Temp : list = list(str(num))
             DigitSum += sum(int(i) for i in Temp)
-        return abs(ElementSum - DigitSum)
+        return ElementSum - DigitSum
