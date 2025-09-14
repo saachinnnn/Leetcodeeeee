@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
