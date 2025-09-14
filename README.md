@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2752-sum-multiples](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2752-sum-multiples) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Divide and Conquer
 |  |
