@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1917-maximum-average-pass-ratio](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1917-maximum-average-pass-ratio) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0287-find-the-duplicate-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Recursion
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0742-to-lower-case](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Queue
 |  |
