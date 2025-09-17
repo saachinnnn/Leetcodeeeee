@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0232-implement-queue-using-stacks](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0838-design-linked-list) |
+| [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0023-merge-k-sorted-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0239-sliding-window-maximum) |
 | [1917-maximum-average-pass-ratio](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [3791-fruits-into-baskets-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3791-fruits-into-baskets-iii) |
 ## String
 |  |
@@ -200,6 +205,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [3312-number-of-changing-keys](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3312-number-of-changing-keys) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Queue
