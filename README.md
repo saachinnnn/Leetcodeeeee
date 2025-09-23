@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2876-number-of-employees-who-met-the-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3791-fruits-into-baskets-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3791-fruits-into-baskets-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2023-design-movie-rental-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Counting
 |  |
 | ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
