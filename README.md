@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0141-linked-list-cycle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0940-fruit-into-baskets) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0002-add-two-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0258-add-digits) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0020-valid-parentheses](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0166-fraction-to-recurring-decimal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0742-to-lower-case](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0742-to-lower-case) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
