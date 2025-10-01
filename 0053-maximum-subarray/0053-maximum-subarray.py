@@ -3,9 +3,12 @@ class Solution:
        # For Maximum Subarray Type questions we can use Kadanes Algorithm.
        Result : int = nums[0]
 
-       Maxending : int = nums[0]
-
-       for i in range(1,len(nums)):
-            Maxending = max(Maxending + nums[i],nums[i])
-            Result = max(Maxending,Result)
+       total : int = 0
+       
+       for num in nums:
+            if total < 0:
+                total = 0
+            
+            total += num
+            Result = max(Result,total)
        return Result
