@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0239-sliding-window-maximum) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0120-triangle) |
 | [0826-soup-servings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0826-soup-servings) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1111-minimum-score-triangulation-of-polygon) |
