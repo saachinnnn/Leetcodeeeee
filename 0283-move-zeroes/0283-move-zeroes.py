@@ -4,12 +4,13 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         # Apparently the simpler version.
-        insert_position : int = 0
+        ## Even more simpler version....
 
-        for num in nums:
-            if num != 0:
-                nums[insert_position] = num
-                insert_position += 1
-        for i in range(insert_position,len(nums)):
-            nums[i] = 0
+        leftPtr : int = 0
+
+        for rightptr in range(len(nums)):
+            if nums[rightptr] != 0:
+                nums[leftPtr] , nums[rightptr] = nums[rightptr] , nums[leftPtr]
+                leftPtr += 1
+        
             
