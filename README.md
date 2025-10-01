@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0940-fruit-into-baskets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1019-squares-of-a-sorted-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1293-three-consecutive-odds](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1603-running-sum-of-1d-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0344-reverse-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Recursion
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
