@@ -1,17 +1,14 @@
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
-        # First we calculate the Prefixsum for this.
-        for i in range(1,len(nums)):
-            nums[i] += nums[i - 1]
+        # Now doing the Totalling method.
+        Total : int = sum(nums)
+        LeftTotal : int = 0
 
-
-        # Now we run another for loop to get the pivot index.
+        # Now looping once.
         for i in range(len(nums)):
-            if i == 0:
-                if nums[0] == nums[-1]:
-                    return 0
-                else:
-                    continue
-            if nums[i - 1] == (nums[-1] - nums[i]):
+            RightTotal : int = Total - LeftTotal - nums[i]
+
+            if RightTotal == LeftTotal:
                 return i
+            LeftTotal += nums[i]
         return -1
