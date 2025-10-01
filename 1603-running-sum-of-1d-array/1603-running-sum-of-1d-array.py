@@ -1,6 +1,11 @@
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
-        # Basically we calculate the prefix sum for the given array.
-        for i in range(1,len(nums)):
-            nums[i] += nums[i - 1]
-        return nums
+       # Trying with a new array.
+       Prefixsum : list = [0]*len(nums)
+
+       Prefixsum[0] = nums[0]
+
+       for i in range(1,len(Prefixsum)):
+            Prefixsum[i] = nums[i] + Prefixsum[i - 1]
+       return Prefixsum
+       
