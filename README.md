@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0724-find-pivot-index) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0166-fraction-to-recurring-decimal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0523-continuous-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0231-power-of-two](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0523-continuous-subarray-sum) |
 | [0826-soup-servings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1018-largest-perimeter-triangle) |
