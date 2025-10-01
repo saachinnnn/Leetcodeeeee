@@ -1,14 +1,14 @@
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
-        # Now doing the Totalling method.
-        Total : int = sum(nums)
-        LeftTotal : int = 0
+        # Same thing just in a different way.
+        leftsum , rightsum = 0,sum(nums)
 
-        # Now looping once.
-        for i in range(len(nums)):
-            RightTotal : int = Total - LeftTotal - nums[i]
+        for idx,ele in enumerate(nums):
+            rightsum -= ele
 
-            if RightTotal == LeftTotal:
-                return i
-            LeftTotal += nums[i]
+            if leftsum == rightsum:
+                return idx
+            
+            leftsum += ele
         return -1
+        
