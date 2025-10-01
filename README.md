@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0383-ransom-note](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0523-continuous-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [1917-maximum-average-pass-ratio](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0383-ransom-note](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0742-to-lower-case) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1019-squares-of-a-sorted-array) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0383-ransom-note](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -370,4 +375,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2324-find-triangular-sum-of-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
