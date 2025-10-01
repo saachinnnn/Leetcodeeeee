@@ -3,4 +3,8 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        s.reverse()
+        idx = 0
+        while idx < (len(s) // 2):
+            s[idx] , s[len(s) - idx - 1] = s[len(s) - idx - 1] , s[idx]
+            idx += 1
+        
