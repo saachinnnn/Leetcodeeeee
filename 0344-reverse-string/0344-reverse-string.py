@@ -3,8 +3,12 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        idx = 0
-        while idx < (len(s) // 2):
-            s[idx] , s[len(s) - idx - 1] = s[len(s) - idx - 1] , s[idx]
-            idx += 1
+        # Another way to do this.....
+        left = 0
+        right = len(s) - 1
+
+        while left < right:
+            s[left] , s[right] = s[right] , s[left]
+            left += 1
+            right -= 1
         
