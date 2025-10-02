@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2752-sum-multiples) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Divide and Conquer
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1642-water-bottles](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
+| [3336-water-bottles-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3336-water-bottles-ii) |
 ## Number Theory
 |  |
 | ------- |
