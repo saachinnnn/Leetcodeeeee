@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0283-move-zeroes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0166-fraction-to-recurring-decimal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -218,11 +220,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [1917-maximum-average-pass-ratio](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2023-design-movie-rental-system) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1018-largest-perimeter-triangle) |
@@ -349,6 +354,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
@@ -385,5 +391,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
