@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0136-single-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
