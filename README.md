@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0231-power-of-two) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0231-power-of-two) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0020-valid-parentheses](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0166-fraction-to-recurring-decimal) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2058-concatenation-of-array) |
