@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0141-linked-list-cycle) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0076-minimum-window-substring) |
@@ -438,4 +440,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
