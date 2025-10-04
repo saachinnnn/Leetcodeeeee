@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0166-fraction-to-recurring-decimal) |
