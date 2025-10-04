@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0160-intersection-of-two-linked-lists) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0344-reverse-string) |
