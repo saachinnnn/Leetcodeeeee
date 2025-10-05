@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0136-single-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0239-sliding-window-maximum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0142-linked-list-cycle-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0387-first-unique-character-in-a-string) |
