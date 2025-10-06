@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0540-single-element-in-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3791-fruits-into-baskets-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3791-fruits-into-baskets-iii) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
+| [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
 | [1791-richest-customer-wealth](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1791-richest-customer-wealth) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3797-design-spreadsheet](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3797-design-spreadsheet) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0145-binary-tree-postorder-traversal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -372,6 +377,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0404-sum-of-left-leaves](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -461,4 +467,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
