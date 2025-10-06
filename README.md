@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0557-reverse-words-in-a-string-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0742-to-lower-case) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
+| [1205-defanging-an-ip-address](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1960-check-if-the-sentence-is-pangram) |
