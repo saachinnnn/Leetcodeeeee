@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1046-max-consecutive-ones-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1046-max-consecutive-ones-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1612-avoid-flood-in-the-city) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3791-fruits-into-baskets-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1019-squares-of-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Recursion
 |  |
 | ------- |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
