@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0540-single-element-in-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0830-largest-triangle-area) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0367-valid-perfect-square](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1046-max-consecutive-ones-iii) |
