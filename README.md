@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2752-sum-multiples) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0258-add-digits](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0258-add-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2491-smallest-even-multiple](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2491-smallest-even-multiple) |
 ## Geometry
 |  |
 | ------- |
