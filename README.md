@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0231-power-of-two](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0523-continuous-subarray-sum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0523-continuous-subarray-sum) |
 | [0826-soup-servings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0830-largest-triangle-area) |
+| [1013-fibonacci-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1018-largest-perimeter-triangle) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0120-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0152-maximum-product-subarray) |
 | [0826-soup-servings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0826-soup-servings) |
+| [1013-fibonacci-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -535,4 +538,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
