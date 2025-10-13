@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0189-rotate-array) |
