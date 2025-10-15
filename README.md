@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0283-move-zeroes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0165-compare-version-numbers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0412-fizz-buzz) |
