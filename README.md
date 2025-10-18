@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3515-find-if-digit-game-can-be-won](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3791-fruits-into-baskets-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1612-avoid-flood-in-the-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1917-maximum-average-pass-ratio) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Counting
 |  |
 | ------- |
