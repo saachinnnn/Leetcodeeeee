@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0033-search-in-rotated-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0136-single-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0002-add-two-numbers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0189-rotate-array) |
