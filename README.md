@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0485-max-consecutive-ones](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0540-single-element-in-a-sorted-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0438-find-all-anagrams-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0523-continuous-subarray-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
