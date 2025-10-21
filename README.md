@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3379-score-of-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3797-design-spreadsheet) |
+| [3811-reverse-degree-of-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Queue
 |  |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3811-reverse-degree-of-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3811-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
