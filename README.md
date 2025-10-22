@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0053-maximum-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0152-maximum-product-subarray) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0152-maximum-product-subarray) |
 | [0826-soup-servings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0826-soup-servings) |
