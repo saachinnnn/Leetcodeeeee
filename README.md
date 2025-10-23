@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3336-water-bottles-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
 |  |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3312-number-of-changing-keys](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2324-find-triangular-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3811-reverse-degree-of-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3811-reverse-degree-of-a-string) |
 ## Number Theory
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0258-add-digits](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0258-add-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2491-smallest-even-multiple](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2491-smallest-even-multiple) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bucket Sort
 |  |
