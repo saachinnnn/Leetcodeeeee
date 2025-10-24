@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1635-number-of-good-pairs](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2023-design-movie-rental-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2023-design-movie-rental-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1642-water-bottles](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2238-a-number-after-a-double-reversal) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1635-number-of-good-pairs) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -635,4 +638,9 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0204-count-primes) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2174-next-greater-numerically-balanced-number) |
+## Backtracking
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
