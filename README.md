@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2714-left-and-right-sum-differences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1603-running-sum-of-1d-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2714-left-and-right-sum-differences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2714-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
