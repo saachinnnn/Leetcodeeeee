@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0225-implement-stack-using-queues](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0937-online-stock-span) |
 | [2128-reverse-prefix-of-word](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0232-implement-queue-using-stacks](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0937-online-stock-span) |
 | [2023-design-movie-rental-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
@@ -654,4 +656,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2174-next-greater-numerically-balanced-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
