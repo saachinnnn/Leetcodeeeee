@@ -23,9 +23,10 @@ class Solution:
                     nge_stk[idx] = stk[-1]
                     stk.append(nums2[idx])
         # So we have computed the next greater stack above successfully!! sui!!!.
+        index_map = {num: i for i, num in enumerate(nums2)}
         ans = []
         for element in nums1:
-            index = nums2.index(element)
+            index = index_map[element]
             ans.append(nge_stk[index])
         return ans
 
