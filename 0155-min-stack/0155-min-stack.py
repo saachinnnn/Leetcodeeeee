@@ -1,19 +1,18 @@
 class MinStack:
-
+    # Resolving one of the classics.
+    ## Using two stacks.
     def __init__(self):
-        self.stack : list = []
-        self.minstack : list = []
+        self.stack = []
+        self.minstack = []
 
     def push(self, val: int) -> None:
-        if not self.minstack:
-            self.minstack.append(val)
-        elif self.minstack[-1] >= val:
+        if self.minstack == [] or self.minstack[-1] >= val:
             self.minstack.append(val)
         self.stack.append(val)
 
     def pop(self) -> None:
         element = self.stack.pop()
-        if element == self.minstack[-1]:
+        if self.minstack[-1] == element:
             self.minstack.pop()
 
     def top(self) -> int:
