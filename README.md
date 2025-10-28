@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2714-left-and-right-sum-differences) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0342-power-of-four](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1610-xor-operation-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
 |  |
