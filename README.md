@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0496-next-greater-element-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0937-online-stock-span) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0782-jewels-and-stones](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0953-reverse-only-letters) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1341-split-a-string-in-balanced-strings) |
