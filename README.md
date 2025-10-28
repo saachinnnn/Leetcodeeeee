@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0232-implement-queue-using-stacks](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0937-online-stock-span) |
 | [2128-reverse-prefix-of-word](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
