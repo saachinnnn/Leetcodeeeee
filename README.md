@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2551-apply-operations-to-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2714-left-and-right-sum-differences) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2551-apply-operations-to-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Recursion
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2551-apply-operations-to-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3616-make-array-elements-equal-to-zero) |
