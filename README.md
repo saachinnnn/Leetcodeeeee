@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1612-avoid-flood-in-the-city) |
 | [1635-number-of-good-pairs](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1635-number-of-good-pairs) |
