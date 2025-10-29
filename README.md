@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1610-xor-operation-in-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1610-xor-operation-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
 |  |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3336-water-bottles-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
