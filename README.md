@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1791-richest-customer-wealth](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1791-richest-customer-wealth) |
 | [1917-maximum-average-pass-ratio](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1917-maximum-average-pass-ratio) |
+| [1944-truncate-sentence](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2023-design-movie-rental-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2023-design-movie-rental-system) |
 | [2058-concatenation-of-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2058-concatenation-of-array) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1341-split-a-string-in-balanced-strings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1944-truncate-sentence](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2137-final-value-of-variable-after-performing-operations) |
