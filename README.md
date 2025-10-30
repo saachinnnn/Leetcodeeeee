@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0303-range-sum-query-immutable](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0969-number-of-recent-calls) |
 | [2023-design-movie-rental-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0232-implement-queue-using-stacks](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0969-number-of-recent-calls) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -710,4 +712,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
