@@ -1,13 +1,12 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack = []
-        matching = {')':'(','}':'{',']':'['}
-
-        for ch in s:
-            if ch in matching.values():
-                stack.append(ch)
-            elif ch in matching:
-                if not stack or stack[-1] != matching[ch]:
+        stack : list = []
+        matching : dict = {')':'(','}':'{',']':'['}
+        for char in s:
+            if char in matching.values():
+                stack.append(char)
+            elif char in matching:
+                if not stack or matching[char] != stack[-1]:
                     return False
                 stack.pop()
             else:
