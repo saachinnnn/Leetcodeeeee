@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0937-online-stock-span](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1666-make-the-string-great](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1341-split-a-string-in-balanced-strings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1666-make-the-string-great](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1666-make-the-string-great) |
 | [1944-truncate-sentence](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2128-reverse-prefix-of-word) |
