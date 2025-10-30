@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0053-maximum-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0120-triangle) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0145-binary-tree-postorder-traversal) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0937-online-stock-span) |
