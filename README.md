@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0389-find-the-difference) |
 | [1610-xor-operation-in-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1610-xor-operation-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0350-intersection-of-two-arrays-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0496-next-greater-element-i) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0345-reverse-vowels-of-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0268-missing-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
