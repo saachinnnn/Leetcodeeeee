@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0958-sort-array-by-parity-ii) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0011-container-with-most-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
+| [0890-lemonade-change](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1448-maximum-69-number) |
