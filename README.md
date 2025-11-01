@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1791-richest-customer-wealth) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1917-maximum-average-pass-ratio](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-truncate-sentence](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1666-make-the-string-great](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1666-make-the-string-great) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0239-sliding-window-maximum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0969-number-of-recent-calls) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0412-fizz-buzz](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1642-water-bottles) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2169-simple-bank-system) |
