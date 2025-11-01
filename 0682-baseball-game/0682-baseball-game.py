@@ -4,13 +4,11 @@ class Solution:
         stack : list = []
         for operation in operations:
             if operation == "+":
-                val_1 = int(stack[-1])
-                val_2 = int(stack[-2])
-                stack.append(str(val_1 + val_2))
+                stack.append(int(stack[-1]) + int(stack[-2]))
             elif operation == "D":
-                stack.append(str(int(stack[-1])*2))
+                stack.append((int(stack[-1])*2))
             elif operation == "C":
                 stack.pop()
             else:
-                stack.append(operation)
-        return sum(int(num) for num in stack)
+                stack.append(int(operation))
+        return sum(num for num in stack)
