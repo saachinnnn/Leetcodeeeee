@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0234-palindrome-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0258-add-digits](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2058-concatenation-of-array) |
