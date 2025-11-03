@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0287-find-the-duplicate-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0374-guess-number-higher-or-lower) |
 ## Bitmask
 |  |
 | ------- |
