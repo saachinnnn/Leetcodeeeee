@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Hash Table
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3797-design-spreadsheet](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2023-design-movie-rental-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Merge Sort
 |  |
 | ------- |
