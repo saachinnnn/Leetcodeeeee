@@ -7,11 +7,11 @@
 from collections import deque
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        # Iterative BFS approach.
+        # Iterative DFS approach.
         if not root:
             return 0
-        depth : int = 0
         queue : list = deque([root])
+        depth = 0
         while queue:
             for _ in range(len(queue)):
                 node = queue.popleft()
