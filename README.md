@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3797-design-spreadsheet) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3797-design-spreadsheet](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2023-design-movie-rental-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [3791-fruits-into-baskets-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3791-fruits-into-baskets-iii) |
+| [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -577,6 +581,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0404-sum-of-left-leaves](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -587,6 +592,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0407-trapping-rain-water-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -732,6 +738,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
 ## Interactive
 |  |
 | ------- |
@@ -773,4 +780,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
