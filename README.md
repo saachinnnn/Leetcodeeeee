@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2551-apply-operations-to-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2551-apply-operations-to-an-array) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2714-left-and-right-sum-differences) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1755-defuse-the-bomb](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1755-defuse-the-bomb) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1603-running-sum-of-1d-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2714-left-and-right-sum-differences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2714-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0969-number-of-recent-calls](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2195-time-needed-to-buy-tickets) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -617,6 +622,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1917-maximum-average-pass-ratio) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Monotonic Queue
