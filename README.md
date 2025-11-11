@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0407-trapping-rain-water-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0503-next-greater-element-ii) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0119-pascals-triangle-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0152-maximum-product-subarray) |
+| [0474-ones-and-zeroes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0415-add-strings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0557-reverse-words-in-a-string-iii) |
