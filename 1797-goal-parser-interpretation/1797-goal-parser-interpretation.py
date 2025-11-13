@@ -1,12 +1,11 @@
 class Solution:
     def interpret(self, command: str) -> str:
-        ans = []
-        for idx,char in enumerate(command):
+        # Using stack.
+        stk = []
+        for idx in range(len(command)):
             if command[idx] == '(':
                 if command[idx + 1] == ')':
-                    ans.append('o')
-                else:
-                    continue
-            elif char.isalpha():
-                ans.append(char)
-        return "".join(ans)
+                    stk.append('o')
+            elif command[idx].isalpha():
+                stk.append(command[idx])
+        return ''.join(stk)
