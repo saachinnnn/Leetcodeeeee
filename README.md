@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1612-avoid-flood-in-the-city) |
