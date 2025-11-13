@@ -1,6 +1,5 @@
 class Solution:
     def maxOperations(self, s: str) -> int:
-        ones = False
         Total = 0
         count = 0
         for idx in range(len(s)):
