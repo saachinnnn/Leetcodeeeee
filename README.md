@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2502-sort-the-people](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2551-apply-operations-to-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2551-apply-operations-to-an-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2174-next-greater-numerically-balanced-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2502-sort-the-people](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2502-sort-the-people) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2235-capitalize-the-title](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2235-capitalize-the-title) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
+| [2502-sort-the-people](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2502-sort-the-people) |
 | [3312-number-of-changing-keys](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3462-vowels-game-in-a-string) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2502-sort-the-people](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3437-maximum-total-damage-with-spell-casting) |
