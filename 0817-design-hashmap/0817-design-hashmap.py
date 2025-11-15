@@ -1,28 +1,17 @@
 class MyHashMap:
-    # Easiest question of my life lowkey????
+
     def __init__(self):
-        self.hashmap : list = []
+        self.hashmap = {}        
 
     def put(self, key: int, value: int) -> None:
-        if self.hashmap:
-            for idx,num in enumerate(self.hashmap):
-                if num[0] == key:
-                    self.hashmap[idx][1] = value
-                    return
-        self.hashmap.append([key,value])
+        self.hashmap[key] = value
 
     def get(self, key: int) -> int:
-        if self.hashmap:
-            for num in self.hashmap:
-                if num[0] == key:
-                    return num[1]
-        return -1
+        return self.hashmap.get(key,-1)
 
     def remove(self, key: int) -> None:
-        for idx,num in enumerate(self.hashmap):
-            if num[0] == key:
-                self.hashmap.pop(idx)
-                return
+        if key in self.hashmap:
+            del self.hashmap[key]
 
 
 # Your MyHashMap object will be instantiated and called as such:
