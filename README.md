@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0745-find-smallest-letter-greater-than-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
+| [0817-design-hashmap](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0890-lemonade-change) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0523-continuous-subarray-sum](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0782-jewels-and-stones) |
+| [0817-design-hashmap](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0160-intersection-of-two-linked-lists](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0234-palindrome-linked-list) |
+| [0817-design-hashmap](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0232-implement-queue-using-stacks](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0729-my-calendar-i) |
+| [0817-design-hashmap](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0969-number-of-recent-calls) |
@@ -825,4 +829,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
