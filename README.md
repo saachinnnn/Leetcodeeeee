@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0389-find-the-difference](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0389-find-the-difference) |
 | [1610-xor-operation-in-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1798-max-number-of-k-sum-pairs](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2023-design-movie-rental-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2023-design-movie-rental-system) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1046-max-consecutive-ones-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2714-left-and-right-sum-differences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2714-left-and-right-sum-differences) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1797-goal-parser-interpretation](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2219-maximum-number-of-words-found-in-sentences) |
