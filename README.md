@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
+| [3886-count-number-of-trapezoids-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3886-count-number-of-trapezoids-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3886-count-number-of-trapezoids-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3886-count-number-of-trapezoids-i) |
 ## Linked List
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3676-smallest-number-with-all-set-bits](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3886-count-number-of-trapezoids-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3886-count-number-of-trapezoids-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0830-largest-triangle-area) |
+| [3886-count-number-of-trapezoids-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3886-count-number-of-trapezoids-i) |
 ## Brainteaser
 |  |
 | ------- |
