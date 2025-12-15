@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2174-next-greater-numerically-balanced-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2238-a-number-after-a-double-reversal) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2383-add-two-integers) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2235-capitalize-the-title) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [2502-sort-the-people](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2502-sort-the-people) |
 | [3312-number-of-changing-keys](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3312-number-of-changing-keys) |
