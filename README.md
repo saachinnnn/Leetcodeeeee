@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0404-sum-of-left-leaves](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
+| [2213-find-all-people-with-secret](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2213-find-all-people-with-secret) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0407-trapping-rain-water-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
+| [2213-find-all-people-with-secret](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2213-find-all-people-with-secret](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2213-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2502-sort-the-people) |
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
+| [2213-find-all-people-with-secret](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
 ## Interactive
 |  |
@@ -870,6 +874,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Graph
 |  |
 | ------- |
+| [2213-find-all-people-with-secret](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3863-power-grid-maintenance) |
 ## Hash Function
 |  |
