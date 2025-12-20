@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0940-fruit-into-baskets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0958-sort-array-by-parity-ii) |
+| [0981-delete-columns-to-make-sorted](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0981-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1018-largest-perimeter-triangle) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0742-to-lower-case](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0953-reverse-only-letters) |
+| [0981-delete-columns-to-make-sorted](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0981-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1205-defanging-an-ip-address) |
