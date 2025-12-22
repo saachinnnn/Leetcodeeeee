@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0958-sort-array-by-parity-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0958-sort-array-by-parity-ii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1018-largest-perimeter-triangle) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0152-maximum-product-subarray](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0152-maximum-product-subarray) |
 | [0474-ones-and-zeroes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0826-soup-servings) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0953-reverse-only-letters](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0953-reverse-only-letters) |
 | [0981-delete-columns-to-make-sorted](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1006-vowel-spellchecker) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1205-defanging-an-ip-address) |
