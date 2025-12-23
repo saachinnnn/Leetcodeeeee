@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2048-build-array-from-permutation](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2164-two-best-non-overlapping-events](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1046-max-consecutive-ones-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1046-max-consecutive-ones-iii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1612-avoid-flood-in-the-city) |
+| [2164-two-best-non-overlapping-events](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2164-two-best-non-overlapping-events) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1612-avoid-flood-in-the-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2023-design-movie-rental-system) |
+| [2164-two-best-non-overlapping-events](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2164-two-best-non-overlapping-events) |
 | [2429-design-a-food-rating-system](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2429-design-a-food-rating-system) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2164-two-best-non-overlapping-events](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2164-two-best-non-overlapping-events) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -733,6 +737,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2164-two-best-non-overlapping-events](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2164-two-best-non-overlapping-events) |
 | [2213-find-all-people-with-secret](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2213-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2392-successful-pairs-of-spells-and-potions) |
