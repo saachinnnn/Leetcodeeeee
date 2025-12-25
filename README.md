@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3334-apple-redistribution-into-boxes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3334-apple-redistribution-into-boxes) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2618-maximize-the-minimum-powered-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3334-apple-redistribution-into-boxes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3334-apple-redistribution-into-boxes) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3226-minimum-number-game) |
 | [3334-apple-redistribution-into-boxes](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3334-apple-redistribution-into-boxes) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/saachinnnn/Leetcodeeeee/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
