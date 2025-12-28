@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1293-three-consecutive-odds](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1046-max-consecutive-ones-iii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1612-avoid-flood-in-the-city) |
 | [2164-two-best-non-overlapping-events](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2164-two-best-non-overlapping-events) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0407-trapping-rain-water-ii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/saachinnnn/Leetcodeeeee/tree/master/0794-swim-in-rising-water) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2343-count-unguarded-cells-in-the-grid) |
