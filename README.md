@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1612-avoid-flood-in-the-city) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saachinnnn/Leetcodeeeee/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2164-two-best-non-overlapping-events](https://github.com/saachinnnn/Leetcodeeeee/tree/master/2164-two-best-non-overlapping-events) |
